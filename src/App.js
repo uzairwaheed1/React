@@ -6,9 +6,11 @@ import Second from './components/Second';
 function App() {
   return (
     <>
-    {/* <First/> */}
+    <First/>
     <Second/>
     {/* <h1>Hello</h1> */}
+
+
     </>
   );
 }
